@@ -35,8 +35,8 @@ namespace ParseTodo
             this.InitializeComponent();
             this.Suspending += OnSuspending;
 
-            ParseClient.Initialize("Your Application Id",
-                "Your Windows Key");
+            ParseClient.Initialize("w2akEFYvsfFnLYro0PVaH2phaoK50n97pNuvFV4T",
+                "N8KG4TRrXzPCHXBxhNoqrCrp8u4ISPcI9wnWfIdr");
         }
 
         /// <summary>
